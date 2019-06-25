@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Buff Octocat](http://pluspng.com/img-png/github-octocat-png-the-steroidtocat-896.png)
