@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Charles Averhart-Collins
+#### Thanks for checking out my first repository! :smile: :octocat:
